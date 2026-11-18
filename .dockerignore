@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.git
+.gitignore
+node_modules
+vendor
+public/build
+storage/*.key
+storage/logs/*
+.phpunit.cache
+.phpunit.result.cache
+.DS_Store
+Thumbs.db
+*.log
